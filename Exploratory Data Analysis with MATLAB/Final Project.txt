@@ -1,0 +1,39 @@
+<Project Title>
+How to use the template
+There are many organize and communicate your results. To help ensure your peer-reviewers can accurately grade your report, this report includes the titles for the 4 required sections in Heading 1 style. Each required element for a given section has a Heading 2 area for you to place the final result. 
+Make sure to place your required findings in the appropiate area for your peer-reviewer to easily find them.
+Also, only the heading titles are present. The script is not broken into sections.
+Background and Scope
+Import the Data
+You may use an import function. If not using an import function, include the code used to import the data (it may be generated from the Import Tool)
+
+Two States Most Impacted by Harvey
+Clearly state the two states in order 
+
+Table of Events for Two Most Impacted States
+Create and display a few rows of events that include only the two most affected states
+
+Visualizations
+
+Figure of Event Types
+Create a figure showing the type and number of occurances for events related to Harvey in the two states
+
+Figure of Event Locations
+Show the location of events in the two states. Be sure to use different markers for the two states
+
+Analysis
+
+Three Counties with Most Events in State 1
+Either type out, show in a table, or show in a clear visualization the three counties with the most events in state 1.
+
+Three Counties with Most Events in State 2
+Either type out, show in a table, or show in a clear visualization the three counties with the most events in state 2.
+
+Three Counties with Highest Property Cost in State 1
+Either type out, show in a table, or show in a clear visualization the three counties with the highest reported property cost in state 1. Be sure to include the dollar amount. 
+
+Three Counties with Highest Property Cost in State 2
+Either type out, show in a table, or show in a clear visualization the three counties with the highest reported property cost in state 2. Be sure to include the dollar amount. 
+
+Conclusions and Recommendations
+Summarize your analysis. Make a recommendation supported by the data.
